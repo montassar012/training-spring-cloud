@@ -8,7 +8,8 @@ spring:
           uri: https://github.com/montassar012/firststep-spring-cloudconfig-wa-tolls
           #username: name
           #password: pass
-          searchPaths: station*
+          search-paths:
+            - 'station*'
 #          repos:
 #            perf:
 #              pattern:
