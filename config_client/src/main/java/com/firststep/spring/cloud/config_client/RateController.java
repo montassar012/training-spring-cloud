@@ -20,7 +20,7 @@ public class RateController {
     @Value("${tollstart}")
     String tollstart;
 
-    @Value("${connstring}")
+  //  @Value("${constring}")
     String connstring;
 
     @RequestMapping("/rate")

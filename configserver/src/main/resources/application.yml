@@ -17,9 +17,9 @@ spring:
               uri: https://github.com/montassar012/firststep-spring-cloudconfig-wa-tolls-perf
               search-paths:
                 - 'station*'
-security:
-  basic:
-    enabled: false
-  user:
-    name: testConfig
-    password: testConfig
+#security:
+#  basic:
+#    enabled: false
+#  user:
+#    name: testConfig
+#    password: testConfig
